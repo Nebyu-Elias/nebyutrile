@@ -85,7 +85,7 @@ namespace Multi_Arrays1
             {
                 for (m = 0; m < Math.Sqrt(arr1.Length); m++)
                 {
-                    Console.WriteLine(arr1[l, m]);
+                    Console.WriteLine("This is the solution: " + arr1[l, m]);
                 }
             }
 
