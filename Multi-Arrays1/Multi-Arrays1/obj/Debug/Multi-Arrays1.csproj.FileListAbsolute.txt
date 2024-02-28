@@ -1,0 +1,7 @@
+D:\class\nidamco\Programming Fundamentals\Practice\c#\Multi-Arrays1\Multi-Arrays1\bin\Debug\Multi-Arrays1.exe.config
+D:\class\nidamco\Programming Fundamentals\Practice\c#\Multi-Arrays1\Multi-Arrays1\bin\Debug\Multi-Arrays1.exe
+D:\class\nidamco\Programming Fundamentals\Practice\c#\Multi-Arrays1\Multi-Arrays1\bin\Debug\Multi-Arrays1.pdb
+D:\class\nidamco\Programming Fundamentals\Practice\c#\Multi-Arrays1\Multi-Arrays1\obj\Debug\Multi-Arrays1.csproj.AssemblyReference.cache
+D:\class\nidamco\Programming Fundamentals\Practice\c#\Multi-Arrays1\Multi-Arrays1\obj\Debug\Multi-Arrays1.csproj.CoreCompileInputs.cache
+D:\class\nidamco\Programming Fundamentals\Practice\c#\Multi-Arrays1\Multi-Arrays1\obj\Debug\Multi-Arrays1.exe
+D:\class\nidamco\Programming Fundamentals\Practice\c#\Multi-Arrays1\Multi-Arrays1\obj\Debug\Multi-Arrays1.pdb
